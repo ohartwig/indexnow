@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.2](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.1...v1.0.2) (2026-09-26)
+
+### :bug: Fixes
+
+* **deps:** update composer packages ([87f92be](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/87f92be86d3974c67731496955c576f0cc165fa1))
+
 ## [1.0.1](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.0...v1.0.1) (2026-09-26)
 
 ### :white_check_mark: Tests
