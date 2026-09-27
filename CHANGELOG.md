@@ -2,6 +2,16 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.3](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.2...v1.0.3) (2026-09-27)
+
+### :bug: Fixes
+
+* **deps:** update dependency php to ^8.5.11 ([d910d6f](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/d910d6fd40422bda759c14a92df5d7ae9d747172))
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([704a932](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/704a932bf854fc0bf907a499d9a5a57a4eaf43f4))
+
 ## [1.0.2](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.1...v1.0.2) (2026-09-26)
 
 ### :bug: Fixes
