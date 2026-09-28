@@ -2,6 +2,15 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.4](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.3...v1.0.4) (2026-09-28)
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([5178819](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/51788190d9cfadbb59118caf364370536f44d5d1))
+* **deps:** update dependency mstruebing/editorconfig-checker to v3.11.3 ([c9b62ef](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/c9b62ef04888302b0ee1ff228e9a6e9dc7e1b31a))
+* **repo-templates:** sync ([b0fc2a3](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/b0fc2a311301a90cd8fdac4b887b41c843013c80))
+* **deps:** update dependency mstruebing/editorconfig-checker to v3.11.3 ([126b3dc](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/126b3dc63fbfba70905eb2cd898c08244bfae64e))
+
 ## [1.0.3](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.2...v1.0.3) (2026-09-27)
 
 ### :bug: Fixes
