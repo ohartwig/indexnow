@@ -2,6 +2,17 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.5](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.4...v1.0.5) (2026-09-28)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.1 ([0e39c63](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/0e39c63cf03fc5d6553599f64f05412c60b6dbab))
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([d6cea76](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/d6cea76c1e7bb239aa4a5d2c7afa39c0911e5c4d))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.0 ([b9eb307](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/b9eb307df0155863090e627eb2aed6dc2b429f90))
+
 ## [1.0.4](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.3...v1.0.4) (2026-09-28)
 
 ### :repeat: Chores
