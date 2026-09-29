@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.8](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.7...v1.0.8) (2026-09-29)
+
+### :repeat: Chores
+
+* **deps:** update dependency infection/infection to ^0.35.5 ([c722306](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/c722306bed3e29aef87f5d773b64ef19d04a3dd4))
+
 ## [1.0.7](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.6...v1.0.7) (2026-09-28)
 
 ### :repeat: Continuous Integrations
