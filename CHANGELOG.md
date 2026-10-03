@@ -2,6 +2,22 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.9](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.8...v1.0.9) (2026-10-03)
+
+### :repeat: Continuous Integrations
+
+* follow composed-default-pipelines on the rolling major tag ([39dc7be](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/39dc7be6b6b9a69fc149dcb56851d78c03c4fb88))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.17 ([5797a96](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/5797a9695f953102f835eae73bfae1d1d6f51b8a))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.16 ([89913d5](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/89913d5297e92ebba33245b73eb8ac9d6f5d8037))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.12 ([e7232fc](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/e7232fc1a76acf27d1cd3ec503ba90d8cf82da98))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.11 ([95373aa](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/95373aa048c449609f2072afe900be8d8b19c766))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.10 ([b99b783](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/b99b7830a142a8c2b604eb502629348f8832af3f))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.9 ([3aedfe1](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/3aedfe1c788a524db20f15a7f7ee8a27cc97df6a))
+
+### :repeat: Chores
+
+* **deps:** update dependency infection/infection to ^0.35.6 ([bf24eea](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/bf24eea802dbd510c21836873a7f26f584081815))
+
 ## [1.0.8](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.7...v1.0.8) (2026-09-29)
 
 ### :repeat: Chores
