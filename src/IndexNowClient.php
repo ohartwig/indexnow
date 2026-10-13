@@ -27,7 +27,7 @@ use Psr\Http\Message\StreamFactoryInterface;
  */
 final readonly class IndexNowClient
 {
-    public const USER_AGENT = 'koh-indexnow/1 (+https://github.com/ole-hartwig/indexnow)';
+    public const USER_AGENT = 'koh-indexnow/1 (+https://github.com/ohartwig/indexnow)';
 
     private Endpoint $endpoint;
 
