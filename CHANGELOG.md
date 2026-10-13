@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.14](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.13...v1.0.14) (2026-10-13)
+
+### :repeat: Chores
+
+* point public links at the GitHub mirror ([29e009c](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/29e009c3b24fbfcb806f416bebd6627b1cf6df91))
+
 ## [1.0.13](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.12...v1.0.13) (2026-10-09)
 
 ### :repeat: Chores
