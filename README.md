@@ -16,8 +16,8 @@ which makes IndexNow the quickest way for new content to become citable there.
 This package does the protocol and nothing else. It has no framework
 dependency, no configuration file and no global state; it talks HTTP through
 any PSR-18 client. Integrations exist for
-[TYPO3](https://github.com/ole-hartwig/typo3-indexnow) and
-[Sylius](https://github.com/ole-hartwig/sylius-indexnow).
+[TYPO3](https://github.com/ohartwig/typo3-indexnow) and
+[Sylius](https://github.com/ohartwig/sylius-indexnow).
 
 ## What it takes care of
 
