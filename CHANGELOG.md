@@ -2,6 +2,16 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.15](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.14...v1.0.15) (2026-10-14)
+
+### :repeat: Continuous Integrations
+
+* publish to GitHub and Packagist ([c6f75d5](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/c6f75d5d616b937f0e4f5786588761dc290a6344))
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([22295a0](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/22295a08718e61b7d7141b0f5d525c73c0e0f805))
+
 ## [1.0.14](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.13...v1.0.14) (2026-10-13)
 
 ### :repeat: Chores
