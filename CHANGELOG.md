@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.17](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.16...v1.0.17) (2026-10-16)
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([caabea4](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/caabea4e2bdef899dff7083e5d4207d3049f160f))
+
 ## [1.0.16](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.15...v1.0.16) (2026-10-15)
 
 ### :repeat: Chores
