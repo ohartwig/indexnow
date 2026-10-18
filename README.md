@@ -78,7 +78,7 @@ configuration sending the key to someone else's domain.
 
 ## Requirements
 
-PHP 8.2 or later, a PSR-18 client and PSR-17 factories. `ext-intl` is used for
+PHP 8.3 or later, a PSR-18 client and PSR-17 factories. `ext-intl` is used for
 internationalised host names when present.
 
 ## Independence
