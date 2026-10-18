@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.18](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.17...v1.0.18) (2026-10-18)
+
+### :bug: Fixes
+
+* admit PHP 8.3 and test the floor on it ([7e9b8e1](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/7e9b8e1939a717958cbbc58b63849305b33b31a2))
+
 ## [1.0.17](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.16...v1.0.17) (2026-10-16)
 
 ### :repeat: Chores
