@@ -2,6 +2,21 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.23](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.22...v1.0.23) (2026-11-04)
+
+### :bug: Fixes
+
+* **security:** AUD-053 F01 — replace customer identifiers with placeholders ([74894e1](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/74894e13f6583a2c08146e30bbcc1e6695534c1f))
+
+### :white_check_mark: Tests
+
+* **security:** AUD-053 F01 — fix the hygiene test namespace (PSR-4) ([15c5abe](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/15c5abe7337c004ed3387fb116ba7974a57ac15a))
+* **security:** AUD-053 F01 — add the customer-name hygiene test ([68f2b37](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/68f2b37941a42bd1e1b09ea56e03b7f3da8807ec))
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([688716f](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/688716fc0728911b4673ac40c2e72c3f7d2c29ed))
+
 ## [1.0.22](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.21...v1.0.22) (2026-11-04)
 
 ### :repeat: Chores
