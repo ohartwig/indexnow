@@ -29,7 +29,7 @@ final class HostPolicyTest extends TestCase
         yield 'IPv4' => ['192.0.2.10'];
         yield 'IPv6 literal' => ['[2001:db8::1]'];
         yield 'single label' => ['intranet'];
-        yield 'dev label' => ['budde.dev.shop-domain.eu'];
+        yield 'dev label' => ['example.dev.shop-domain.eu'];
         yield 'staging label' => ['staging.shop-domain.co.uk'];
         yield 'preview label' => ['pr-12.preview.shop-domain.de'];
         yield 'not a DNS name' => ['under_score.shop-domain.de'];
