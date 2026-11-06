@@ -2,6 +2,14 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.24](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.23...v1.0.24) (2026-11-06)
+
+### :repeat: Chores
+
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.137-8.5 ([ec74baa](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/ec74baa285a01773ca73d8f30b2cad76a4261f2b))
+* **deps:** update dependency phpstan/phpstan to ^2.3.5 ([dcb0c15](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/dcb0c1504ea6fefd1f1cb6479328d2bdce107b81))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.136-8.5 ([75740ed](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/75740ed1eee285fa7074970a5ceeca92c2f9b7c0))
+
 ## [1.0.23](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.22...v1.0.23) (2026-11-04)
 
 ### :bug: Fixes
