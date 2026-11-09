@@ -2,6 +2,28 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.25](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.24...v1.0.25) (2026-11-09)
+
+### :repeat: Chores
+
+* **deps:** update dependency infection/infection to ^0.35.10 ([f92a2d7](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/f92a2d769722fd91d2788d4a9e4e44f3cac45f29))
+* **repo-templates:** sync ([2ff08dc](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/2ff08dccf590c19188fa8e353cfe6843f98b26db))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.173-8.5 ([7f12e72](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/7f12e722f72a9c73008a976f51823137dd92cc86))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.172-8.5 ([f6529f1](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/f6529f1a08ef6fb265f597482b1965ccacff82e3))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.171-8.5 ([f452bf5](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/f452bf5c29c8b07d9f3beb9862f0a347de484977))
+* **repo-templates:** sync ([bd59384](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/bd593846a61970cf33b4e73a5e44bb6a1010270c))
+* **repo-templates:** sync ([12b1f83](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/12b1f8399c6c4d3af3194be7e2f96fcf53922512))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.150-8.5 ([58e0e7d](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/58e0e7d557d4db8764398da474301b287513b013))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.149-8.5 ([0b367de](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/0b367de682616e3d3031b0424c653ed232e7b230))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.148-8.5 ([ad6deea](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/ad6deea39137631a428fc2adcd8e3f47922cbdf6))
+* **repo-templates:** sync ([54629c0](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/54629c0417d710d52c62a1f0d82fc32a943cca93))
+* **repo-templates:** sync ([7212a0a](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/7212a0acf5cbb40965e1c91757d3142892b940e3))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.144-8.5 ([74f5be2](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/74f5be280b24694d76d10f1b29ecba0c30a0d428))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.143-8.5 ([3f29aae](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/3f29aaeb9534a7a78aa71f7dbc4af5f654b82b72))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.142-8.5 ([3290a74](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/3290a74a39b4147b9beb530e51007dc399d719b2))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.139-8.5 ([1bbd7a2](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/1bbd7a27720ef91a467a89f43024d255a2ea2ae1))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.138-8.5 ([84c7dfc](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/84c7dfc27269c533c07487315a6594be560150a9))
+
 ## [1.0.24](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.23...v1.0.24) (2026-11-06)
 
 ### :repeat: Chores
