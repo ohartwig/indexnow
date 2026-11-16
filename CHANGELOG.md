@@ -2,6 +2,13 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.26](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.25...v1.0.26) (2026-11-16)
+
+### :repeat: Chores
+
+* **deps:** update dependency infection/infection to ^0.35.11 ([0999985](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/099998556e615dd40a41a20d93ae9b3a12635a3b))
+* **deps:** update dependency registry.ole-hartwig.eu/devops/images/franken-php/ci to v3.2.246-8.5 ([952f0b2](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/952f0b22430be0f82f4439678fe7989d5bf9d4ad))
+
 ## [1.0.25](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.24...v1.0.25) (2026-11-09)
 
 ### :repeat: Chores
