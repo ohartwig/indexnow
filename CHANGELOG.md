@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.26...v1.0.27) (2026-11-17)
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.3.6 ([e084055](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/e084055c26887115589d155f5446aad4014e6d06))
+
 ## [1.0.26](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.25...v1.0.26) (2026-11-16)
 
 ### :repeat: Chores
