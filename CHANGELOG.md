@@ -2,6 +2,12 @@
 
 All notable changes are recorded here by the release tooling.
 
+## [1.0.28](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.27...v1.0.28) (2026-11-17)
+
+### :bug: Fixes
+
+* **composer:** point homepage at the package page ([5a4d65b](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/commit/5a4d65b1ecfb27f39091691bd6fbf8f4d3fc7509))
+
 ## [1.0.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/indexnow/compare/v1.0.26...v1.0.27) (2026-11-17)
 
 ### :repeat: Chores
